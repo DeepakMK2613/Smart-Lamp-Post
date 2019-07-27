@@ -1,5 +1,6 @@
 # Smart-Lamp-Post Platform Development
 This my Final year M-Tech(Embedded Systems) project in EEE dept. PES University.
+
 The project is an attempt to work on solutions around street lights to reduce the electric energy consumption and to make use of technologies to collect relevant data towards managing the resources. It is very obvious to go for renewable solution and depend on solar energy that is available in abundance. Thus the project is to advance the existing street lamps to include more sensors and controls and make it a smart lamp post. The project work is an experimental step towards the deployment in PES University. The solution comprised of solar based charging using solar controller, LED light output for street lighting and communication network currently based on GSM. 
 
 The following features are incorporated on smart lamp post:
